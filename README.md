@@ -8,3 +8,6 @@ For now I used only Random Forest Classifier model (RFC.py) and Grid Search.
 
 
 Logs of multiple runs of the model are in "logs.json"
+
+You can try running the file by yourself
+Requirements of installed modules are in "requirements.txt"
