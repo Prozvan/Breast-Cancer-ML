@@ -1,0 +1,407 @@
+[
+    {
+        "timestamp": "2025-08-11T17:05:38.412198",
+        "data": {
+            "Default RFC": {
+                "score": 0.9824561403508771,
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            },
+            "Grid Search": {
+                "score": 0.9824561403508771,
+                "parameters": {
+                    "n_estimators": 125,
+                    "random_state": 8
+                },
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:07:02.678875",
+        "data": {
+            "Default RFC": {
+                "score": 0.9736842105263158,
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.97,
+                    "recall": 0.95,
+                    "f1-score": 0.96
+                }
+            },
+            "Grid Search": {
+                "score": 0.956140350877193,
+                "parameters": {
+                    "n_estimators": 175,
+                    "random_state": 5
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.95,
+                    "recall": 0.93,
+                    "f1-score": 0.94
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:10:52.338717",
+        "data": {
+            "Default RFC": {
+                "score": 0.9824561403508771,
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            },
+            "Grid Search": {
+                "score": 0.9736842105263158,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 1
+                },
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.95,
+                    "recall": 0.98,
+                    "f1-score": 0.97
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:11:31.455292",
+        "data": {
+            "Default RFC": {
+                "score": 0.956140350877193,
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.95,
+                    "recall": 0.93,
+                    "f1-score": 0.94
+                }
+            },
+            "Grid Search": {
+                "score": 0.956140350877193,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 0
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.95,
+                    "recall": 0.93,
+                    "f1-score": 0.94
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:12:13.808076",
+        "data": {
+            "Default RFC": {
+                "score": 0.956140350877193,
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.89,
+                    "recall": 1.0,
+                    "f1-score": 0.94
+                }
+            },
+            "Grid Search": {
+                "score": 0.956140350877193,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 0
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.89,
+                    "recall": 1.0,
+                    "f1-score": 0.94
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:12:55.789586",
+        "data": {
+            "Default RFC": {
+                "score": 0.9824561403508771,
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            },
+            "Grid Search": {
+                "score": 0.9824561403508771,
+                "parameters": {
+                    "n_estimators": 125,
+                    "random_state": 0
+                },
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.96,
+                    "recall": 1.0,
+                    "f1-score": 0.98
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:13:37.531955",
+        "data": {
+            "Default RFC": {
+                "score": 0.9736842105263158,
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.96,
+                    "recall": 0.98,
+                    "f1-score": 0.97
+                }
+            },
+            "Grid Search": {
+                "score": 0.9649122807017544,
+                "parameters": {
+                    "n_estimators": 150,
+                    "random_state": 5
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.98,
+                    "recall": 0.93,
+                    "f1-score": 0.96
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:14:18.510723",
+        "data": {
+            "Default RFC": {
+                "score": 0.956140350877193,
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.93,
+                    "recall": 0.95,
+                    "f1-score": 0.94
+                }
+            },
+            "Grid Search": {
+                "score": 0.9649122807017544,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 3
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.95,
+                    "recall": 0.95,
+                    "f1-score": 0.95
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:14:58.829664",
+        "data": {
+            "Default RFC": {
+                "score": 0.9824561403508771,
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            },
+            "Grid Search": {
+                "score": 0.9912280701754386,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 7
+                },
+                "metrics": {
+                    "accuracy": 0.99,
+                    "precision": 1.0,
+                    "recall": 0.98,
+                    "f1-score": 0.99
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:15:40.026266",
+        "data": {
+            "Default RFC": {
+                "score": 0.9736842105263158,
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.97,
+                    "recall": 0.95,
+                    "f1-score": 0.96
+                }
+            },
+            "Grid Search": {
+                "score": 0.9736842105263158,
+                "parameters": {
+                    "n_estimators": 125,
+                    "random_state": 5
+                },
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.97,
+                    "recall": 0.95,
+                    "f1-score": 0.96
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:16:20.503975",
+        "data": {
+            "Default RFC": {
+                "score": 0.9736842105263158,
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.95,
+                    "recall": 0.98,
+                    "f1-score": 0.97
+                }
+            },
+            "Grid Search": {
+                "score": 0.9736842105263158,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 2
+                },
+                "metrics": {
+                    "accuracy": 0.97,
+                    "precision": 0.95,
+                    "recall": 0.98,
+                    "f1-score": 0.97
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T17:17:01.596141",
+        "data": {
+            "Default RFC": {
+                "score": 0.9824561403508771,
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            },
+            "Grid Search": {
+                "score": 0.9824561403508771,
+                "parameters": {
+                    "n_estimators": 175,
+                    "random_state": 0
+                },
+                "metrics": {
+                    "accuracy": 0.98,
+                    "precision": 0.98,
+                    "recall": 0.98,
+                    "f1-score": 0.98
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T20:10:26.276802",
+        "data": {
+            "Default RFC": {
+                "score": 0.9649122807017544,
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.95,
+                    "recall": 0.95,
+                    "f1-score": 0.95
+                }
+            },
+            "Grid Search": {
+                "score": 0.956140350877193,
+                "parameters": {
+                    "n_estimators": 150,
+                    "random_state": 0
+                },
+                "metrics": {
+                    "accuracy": 0.96,
+                    "precision": 0.93,
+                    "recall": 0.95,
+                    "f1-score": 0.94
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T20:24:17.570843",
+        "data": {
+            "Default RFC": {
+                "score": 0.9912280701754386,
+                "metrics": {
+                    "accuracy": 0.99,
+                    "precision": 1.0,
+                    "recall": 0.98,
+                    "f1-score": 0.99
+                }
+            },
+            "Grid Search": {
+                "score": 0.9912280701754386,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 7
+                },
+                "metrics": {
+                    "accuracy": 0.99,
+                    "precision": 1.0,
+                    "recall": 0.98,
+                    "f1-score": 0.99
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-11T20:31:21.625962",
+        "data": {
+            "Default RFC": {
+                "score": 0.9298245614035088,
+                "metrics": {
+                    "accuracy": 0.93,
+                    "precision": 0.92,
+                    "recall": 0.87,
+                    "f1-score": 0.89
+                }
+            },
+            "Grid Search": {
+                "score": 0.9385964912280702,
+                "parameters": {
+                    "n_estimators": 100,
+                    "random_state": 9
+                },
+                "metrics": {
+                    "accuracy": 0.94,
+                    "precision": 0.94,
+                    "recall": 0.87,
+                    "f1-score": 0.91
+                }
+            }
+        }
+    }
+]
